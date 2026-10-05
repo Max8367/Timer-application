@@ -80,7 +80,7 @@ int main() {
 					cout << "Stop watch reseted...." << endl;
 					break;
 				}//case 3 of case 2's switch
-					  //comment 
+					 
 				case 4: {
 					cout << "Exiting the stop watch mode..." << "\n" << endl;
 					gate2 = false;
